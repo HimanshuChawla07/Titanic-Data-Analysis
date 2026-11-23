@@ -1,0 +1,4 @@
+Pandas 
+Seaborn
+Matplotlib
+Google Colab/Jypyter
